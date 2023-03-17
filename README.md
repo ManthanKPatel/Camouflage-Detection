@@ -1,3 +1,7 @@
+My work is majorly based on the below mentioned content and repository.
+I have tried to Implement their existing work and tried to implement my new changes and new datasets.
+
+
 # Camouflaged Object Detection (CVPR2020-Oral)
 
 > Authors:
