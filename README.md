@@ -48,8 +48,8 @@ https://user-images.githubusercontent.com/90741568/234667769-685f7914-b0bf-4346-
 
 ### References
 
-Ji, G.-P., Fan, D.-P., Chou, Y.-C., Dai, D., Liniger, A., & Van Gool, L. (2022). Deep Gradient Learning for Efficient Camouflaged Object Detection. Computer Vision and Pattern Recognition. doi:10.48550/ARXIV.2205.12853
-Liu, Y., Wang, C.-q., & Zhou, Y.-j. (2021). Camouflaged people detection based on a semi-supervised search identification network. Defence Technology. doi:https://doi.org/10.1016/j.dt.2021.09.004
-Pei, J., Cheng, T., Fan, D.-P., Tang, H., Chen, C., & Van Gool, L. (2022). OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. doi:10.48550/ARXIV.2207.02255
+- Ji, G.-P., Fan, D.-P., Chou, Y.-C., Dai, D., Liniger, A., & Van Gool, L. (2022). Deep Gradient Learning for Efficient Camouflaged Object Detection. Computer Vision and Pattern Recognition. doi:10.48550/ARXIV.2205.12853
+- Liu, Y., Wang, C.-q., & Zhou, Y.-j. (2021). Camouflaged people detection based on a semi-supervised search identification network. Defence Technology. doi:https://doi.org/10.1016/j.dt.2021.09.004
+- Pei, J., Cheng, T., Fan, D.-P., Tang, H., Chen, C., & Van Gool, L. (2022). OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers. doi:10.48550/ARXIV.2207.02255
 
 
